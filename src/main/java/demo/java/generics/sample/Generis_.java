@@ -10,8 +10,9 @@ public class Generis_ {
 		CollectionDemo.setSample();
 		CollectionDemo.mapSample();
 		
+		CollectionDemo.genericClassTypeBound();
+		CollectionDemo.sampleMethodReferencing();
+		
 	}
-	
-	
 		
 }
